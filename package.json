@@ -1,0 +1,19 @@
+{
+  "name": "copilot",
+  "version": "1.0.0",
+  "description": "Pilot made tiny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "clean-css": "^3.2.9",
+    "mustache": "^2.0.0",
+    "node-fetch": "^1.2.1",
+    "simple-keystone-client": "^1.1.0",
+    "uncss": "^0.12.1"
+  }
+}
